@@ -1,6 +1,4 @@
 {
     "version": 2,
-    "cleanUrls": false,
-    "buildCommand": "mkdir -p .vercel/output/static && cp -r *.html *.jpg *.js *.json .vercel/output/static/ 2>/dev/null || true",
-    "outputDirectory": ".vercel/output/static"
+    "cleanUrls": false
 }
