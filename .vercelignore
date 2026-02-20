@@ -1,0 +1,4 @@
+# Ignore node_modules but allow the project files
+.git
+node_modules
+pnpm-lock.yaml
